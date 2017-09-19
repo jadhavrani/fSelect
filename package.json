@@ -1,0 +1,22 @@
+{
+  "name": "fselect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fSelect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadhavrani/fSelect.git"
+  },
+  "keywords": [
+    "fselect"
+  ],
+  "author": "rani_jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadhavrani/fSelect/issues"
+  },
+  "homepage": "https://github.com/jadhavrani/fSelect#readme"
+}
